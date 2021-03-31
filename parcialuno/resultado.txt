@@ -1,0 +1,84 @@
+Archivo con la ruta: /home/m01/Documents/pruebaredesdir/archivo3.txt
+Total de palabras: 18
+Palabras a buscar:
+Palabra: casa Numero de incidencias: 3
+Palabra: jardin Numero de incidencias: 0
+Palabra: pelota Numero de incidencias: 1
+Palabra: juego Numero de incidencias: 0
+Palabra: amor Numero de incidencias: 0
+Palabra: enojo Numero de incidencias: 0
+
+
+Palabra: casa Porcentaje en las palabras: 6.0%
+Palabra: jardin Porcentaje en las palabras: 0%
+Palabra: pelota Porcentaje en las palabras: 18.0%
+Palabra: juego Porcentaje en las palabras: 0%
+Palabra: amor Porcentaje en las palabras: 0%
+Palabra: enojo Porcentaje en las palabras: 0%
+
+
+
+
+Archivo con la ruta: /home/m01/Documents/pruebaredesdir/archivo4
+Total de palabras: 0
+Palabras a buscar:
+Palabra: casa Numero de incidencias: 0
+Palabra: jardin Numero de incidencias: 0
+Palabra: pelota Numero de incidencias: 0
+Palabra: juego Numero de incidencias: 0
+Palabra: amor Numero de incidencias: 0
+Palabra: enojo Numero de incidencias: 0
+
+
+Palabra: casa Porcentaje en las palabras: 0%
+Palabra: jardin Porcentaje en las palabras: 0%
+Palabra: pelota Porcentaje en las palabras: 0%
+Palabra: juego Porcentaje en las palabras: 0%
+Palabra: amor Porcentaje en las palabras: 0%
+Palabra: enojo Porcentaje en las palabras: 0%
+
+
+
+
+Archivo con la ruta: /home/m01/Documents/pruebaredesdir/archivo2.txt
+Total de palabras: 0
+Palabras a buscar:
+Palabra: casa Numero de incidencias: 0
+Palabra: jardin Numero de incidencias: 0
+Palabra: pelota Numero de incidencias: 0
+Palabra: juego Numero de incidencias: 0
+Palabra: amor Numero de incidencias: 0
+Palabra: enojo Numero de incidencias: 0
+
+
+Palabra: casa Porcentaje en las palabras: 0%
+Palabra: jardin Porcentaje en las palabras: 0%
+Palabra: pelota Porcentaje en las palabras: 0%
+Palabra: juego Porcentaje en las palabras: 0%
+Palabra: amor Porcentaje en las palabras: 0%
+Palabra: enojo Porcentaje en las palabras: 0%
+
+
+
+
+Archivo con la ruta: /home/m01/Documents/pruebaredesdir/archivo1.txt
+Total de palabras: 95
+Palabras a buscar:
+Palabra: casa Numero de incidencias: 5
+Palabra: jardin Numero de incidencias: 2
+Palabra: pelota Numero de incidencias: 4
+Palabra: juego Numero de incidencias: 1
+Palabra: amor Numero de incidencias: 4
+Palabra: enojo Numero de incidencias: 3
+
+
+Palabra: casa Porcentaje en las palabras: 19.0%
+Palabra: jardin Porcentaje en las palabras: 47.5%
+Palabra: pelota Porcentaje en las palabras: 23.75%
+Palabra: juego Porcentaje en las palabras: 95.0%
+Palabra: amor Porcentaje en las palabras: 23.75%
+Palabra: enojo Porcentaje en las palabras: 31.666666666666668%
+
+
+
+

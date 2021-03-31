@@ -11,6 +11,8 @@ def leerContenidoDeArchivos(ruta, cola):
             'amor'   : 0,
             'enojo'  : 0
     }
+
+    
     numeroDePalabras = 0
     rutaDir = ruta
     try:
