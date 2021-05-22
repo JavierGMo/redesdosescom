@@ -15,7 +15,7 @@ client.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEPORT, 1)
 
 client.setsockopt(socket.SOL_SOCKET, socket.SO_BROADCAST, 1)
 
-client.bind(("192.168.15.253", 9050))
+client.bind(("192.168.1.255", 37020))
 
 while True:
     data, addr = client.recvfrom(45000)
